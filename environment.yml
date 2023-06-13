@@ -11,6 +11,8 @@ dependencies:
 - geopandas
 - shapely
 - geemap
+- rasterio
+- jupyterlab
 - earthengine-api
 - pip
 
