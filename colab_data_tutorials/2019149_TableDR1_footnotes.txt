@@ -1,0 +1,6 @@
+a If the exact location was not able to be identified, we used the location that best matched the site description. If multiple measurements were made for a region, we report the mean lat/lon for the study.
+b Uncertainties are reported as they were presented in the original journals. If uncertainties were not reported, we calculated and reported the standard deviation of D when possible. 
+c Rock category: 1 = unconsolidated, 2 = sedimentary, 3 = Igneous/metamorphic.
+d Technique category: 1 = Scarp modeling, 2 = Laplacian and erosion rates, 3 = LEM, 4 = Colluvial flux and slope, 5 = erosion rate and Laplacian.
+e Vegetation category: 1 = Arid/desert, 2 = grasslands/scrublands, 3 = savannah/lightly forested, 4=forested.
+fWest et al. (2014) reported the range of D for noth-facing and south-facing slopes. We reported the mean of these values. 
